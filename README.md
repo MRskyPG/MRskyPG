@@ -7,10 +7,10 @@
 Я начинающий программист. Обучаюсь на факультете прикладной математики и информатики в Новосибирском Техническом Государственном Университете. В настоящий момент изучаю Golang (Go), так как заинетересовала Backend / Golang разработка. Также имею опыт C++ и Python. 
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@m_rogalsky-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_rogalsky) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mrogalsky8113@gmail.com)
+- :mailbox: Связь со мной: [![Telegram Badge](https://img.shields.io/badge/-@m_rogalsky-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_rogalsky) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mrogalsky8113@gmail.com)
 
 ---
 
