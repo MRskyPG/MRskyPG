@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm learning programming. I study at the Faculty of Applied Mathematics and Computer Science at the Novosibirsk State Technical University. Currently I’m learning Golang (Go), because I’m interested in Golang development, and I plan to study Backend development. Also I have experience in C++ and Python.
+I'm learning programming. I study at the Faculty of Applied Mathematics and Computer Science at the Novosibirsk State Technical University. Currently I’m learning Golang and JavaScript (+html, css and frameworks), because I’m interested in Web development (fullstack). Also I have experience in C++ and a little of Python.
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
@@ -14,11 +14,20 @@ I'm learning programming. I study at the Faculty of Applied Mathematics and Comp
 
 ---
 
-### Programming languages
+### Web
 
 <div>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="50" height="50"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="cplusplus" width="50" height="50"/>&nbsp
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" tittle="JS" alt="js" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" tittle="HTML5" alt="html5" width="50" height="50"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" tittle="CSS" alt="css" width="50" height="50"/>&nbsp
+
+</div>
+
+---
+### Other
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="cplusplus" width="50" height="50"/>&nbsp
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" title="Python" alt="Python" height="50" /></a>  
 </div>
 
