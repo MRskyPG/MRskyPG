@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm learning programming. I study at the Faculty of Applied Mathematics and Computer Science at the Novosibirsk State Technical University. Currently I’m learning Golang and JavaScript (+html, css and frameworks), because I’m interested in Web development (fullstack). Also I have experience in C++ and a little of Python.
+I study at the Faculty of Applied Mathematics and Computer Science at the Novosibirsk State Technical University. Languages: Go, Python, C++.
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
@@ -27,8 +27,8 @@ I'm learning programming. I study at the Faculty of Applied Mathematics and Comp
 ---
 ### Other
 <div>
+ <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" title="Python" alt="Python" height="50" /></a>  
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="cplusplus" width="50" height="50"/>&nbsp
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" title="Python" alt="Python" height="50" /></a>  
 </div>
 
 ---
