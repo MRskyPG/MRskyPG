@@ -4,8 +4,8 @@
 
 ### About me:
 
-I graduated from NSTU (Novosibirsk) with a bachelor's degree in 2025 (Faculty of Applied Mathematics and Computer Science).  
-My current master's degree is Robotics and Artificial Intelligence at ITMO (Saint Petersburg).  
+I graduated from NSTU (Novosibirsk) with a Bachelor's degree in 2025 (Faculty of Applied Mathematics and Computer Science).  
+My current Master's degree is Robotics and Artificial Intelligence at ITMO (Saint Petersburg).  
   
 In addition to programming, I also can play guitar, do sports and juggle! :grin:
 
