@@ -13,7 +13,7 @@ In addition to programming, I also can play guitar, do sports and juggle! :grin:
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-@m_rogalsky-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_rogalsky) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mrogalsky8113@gmail.com)
+- :mailbox: Contact me: [![Telegram Badge](https://img.shields.io/badge/-@m_rogalsky-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m_rogalskyy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mrogalsky8113@gmail.com)
 
 ---
 ### Languages
